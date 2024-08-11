@@ -6,6 +6,8 @@ This project is awesome because...
 
 ## Features
 
-- Feature 1
-- Feature 2
-- Feature 3
+- Total Users
+- Total Products
+- Total Revenue
+- Revenue Analytics
+- Total Ratio many More.
